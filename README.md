@@ -1,2 +1,6 @@
-# pa-praktikum-iot-unmul-c1
-Project Akhir IoT
+# Kelompok C1
+## Anggota :
+
+* Naufal Vigar Gani      |
+* Muhammad Naufal Wildan |
+* Rahmiatul Mawaddah
